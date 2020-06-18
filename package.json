@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/guilherme-cavalcanti/template-ts/issues"
   },
-  "homepage": "https://github.com/guilherme-cavalcanti/template-ts#readme"
+  "homepage": "https://github.com/guilherme-cavalcanti/template-ts#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.3"
+  }
 }
